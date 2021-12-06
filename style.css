@@ -1,0 +1,34 @@
+/* Body and Images */
+
+html {
+    color: white;
+    background-color: #3ab322;
+}
+
+img {
+    padding: 10px;
+    border: solid 3px rgb(119, 255, 114);
+}
+
+
+/* Table Styles */
+
+th {
+    text-align: left;
+}
+
+table {
+    width: 600px;
+}
+
+table, th, td {
+    font-weight: normal;
+    background-color: rgb(167, 255, 109);
+    color: black;
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 10px
+}
